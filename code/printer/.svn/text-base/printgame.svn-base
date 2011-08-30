@@ -1,0 +1,2 @@
+#!/bin/zsh
+for foo in ~/work/banjo/output/*.bmp; (mv $foo foo.bmp; ./print foo.bmp)

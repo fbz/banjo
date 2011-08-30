@@ -1,0 +1,14 @@
+
+
+
+
+mm-eee-23.local - is the machine that currently runs the sprite editor. to get files from there, do this:
+
+
+
+scp mediamatic@mm-eee-23.local:/tmp/lasest_avatars.txt .
+
+the *last* url in that file is the latest avatar URL.
+
+they are PNG files.
+download it with wget. it needs scaling down.

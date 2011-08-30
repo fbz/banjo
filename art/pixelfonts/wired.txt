@@ -1,0 +1,297 @@
+5X7
+#-A
+XXXXX
+X   X
+X X X
+X   X
+X X X
+X X X
+XXXXX
+#-B
+XXXXX
+X   X
+X X X
+X  XX
+X X X
+X   X
+XXXXX
+#-C
+XXXXX
+X   X
+X XXX
+X XX
+X XX
+X   X
+XXXXX
+#-D
+XXXX
+X  XX
+X X X
+X X X
+X X X
+X  XX
+XXXX
+#-E
+XXXXX
+X   X
+X XXX
+X   X
+X XXX
+X   X
+XXXXX
+#-F
+XXXXX
+X   X
+X XXX
+X   X
+X XXX
+X X
+XXX
+#-G
+XXXXX
+X   X
+X XXX
+X XXX
+X X X
+X   X
+XXXXX
+#-H
+XXXXX
+X X X
+X X X
+X   X
+X X X
+X X X
+XXXXX
+#-I
+XXXXX
+X   X
+ X X
+ X X
+ X X
+X   X
+XXXXX
+#-J
+ XXXX
+ X  X
+  X X
+XXX X
+X X X
+X   X
+XXXXX
+#-K
+XXXXX
+X X X
+X   X
+X XX 
+X   X
+X X X
+XXXXX
+#-L
+XXX  
+X X  
+X X  
+X XXX
+X X X
+X   X
+XXXXX
+#-M
+XX XX
+X X X
+X   X
+X X X
+X X X
+X X X
+XXXXX
+#-N
+XXXXX
+X   X
+X X X
+X X X
+X X X
+X X X
+XXXXX
+#-O
+ XXX 
+X   X
+X X X
+X X X
+X X X
+X   X
+ XXX 
+#-P
+XXXXX
+X   X
+X X X
+X   X
+X XX 
+X X  
+XXX  
+#-Q 
+ XXX 
+X   X
+X X X
+X X X
+X X X
+XX  X
+XXXX 
+#-R
+XXXXX
+X   X
+X X X
+X  X 
+X   X
+X X X
+XXXXX
+#-S
+ XXXX
+X   X
+X XXX
+X   X
+XXX X
+X   X
+XXXX 
+#-T
+XXXXX
+X   X
+XX XX
+ X X 
+ X X 
+ X X 
+ XXX 
+#-U
+XXXXX
+X X X
+X X X
+X X X
+X X X
+X   X
+XXXXX
+#-V
+XXXXX
+X X X
+X X X
+X X X
+X X X
+X   X
+ XXX 
+#-W
+XXXXX
+X X X
+X X X
+X X X
+X   X
+X X X
+XX XX
+#-X
+XX XX
+X X X
+X   X
+ X X 
+X   X
+X X X
+XX XX
+#-Y
+XXXXX
+X X X
+X   X
+ X X 
+ X X 
+ X X 
+ XXX 
+#-Z
+XXXXX
+X   X
+ XX X
+X   X
+X XX 
+X   X
+XXXXX
+#-0
+XXXXX
+X   X
+X X X
+X X X
+X X X
+X   X
+XXXXX 
+#-1
+  XXX
+ X  X
+X   X
+ X  X
+ X  X
+X   X
+XXXXX
+#-2
+XXXX 
+X   X
+ X  X
+X   X
+X XX 
+X   X
+XXXXX
+#-3
+XXXXX
+X   X
+ X  X
+X  X 
+ X  X
+X   X
+XXXXX
+#-4
+XXXXX
+X X X
+X X X
+X   X
+XXX X
+  X X
+  XXX
+#-5
+XXXXX
+X   X
+X XX 
+X   X
+XXX X
+X   X
+XXXX 
+#-6
+ XXXX
+X   X
+X XX 
+X   X
+X X X
+X   X
+ XXX 
+#-7
+XXXXX
+X   X
+XXX X
+X   X
+XXX X
+  X X
+  XXX
+#-8
+ XXX 
+X   X
+X X X
+ X X 
+X X X
+X   X
+ XXX 
+#-9
+ XXX 
+X   X
+X X X
+X   X
+ XX X
+X   X
+XXXX 
+#-!
+XXXXX
+X   X
+X   X
+ X X
+ XXX
+ X X
+ XXX

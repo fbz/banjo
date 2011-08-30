@@ -1,0 +1,6 @@
+#!/bin/zsh
+
+#./PDDemulate-1.0.py img /dev/tty.usbserial-A7TNW53Z
+./PDDemulate-1.0.py img /dev/serial/by-id/usb-BR*
+
+

@@ -1,0 +1,30 @@
+#!/usr/bin/env zsh
+
+# This is a wrapper script for Steve Conklin's Brother Electroknit
+# KH930 scripts.  We've modified his scripts in small ways with little
+# documentation; sorry, forking is bad.
+#
+# --Travis Goodspeed
+
+cd /home/mediamatic/work/banjo/code/printer
+
+if test -e $1;
+then print "Trying to print $1";
+else print "usage: $0 foo.bmp";
+     exit 1;
+fi
+
+rm -f $1.dat
+./insertpattern.py img/file-01.dat 903 $1 $1.dat >>/dev/null
+if test -e $1.dat; then
+   ./splitfile2track.py $1.dat && mv track0.dat img/00.dat && mv track1.dat img/01.dat &&
+   print "Image is loaded into PDDemulate-1.0 img/" &&
+   ./restart_arduino &&
+   echo "Starting a disk emulator.\nBegin knitting when the machine is ready." &&
+   (./disk; exit 0);
+fi
+
+#print "Error.";
+exit 1;
+
+

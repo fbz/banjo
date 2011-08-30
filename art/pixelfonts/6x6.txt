@@ -1,0 +1,258 @@
+6X6
+
+A
+  XX 
+ X  X
+ X  X
+ XXXX
+ X  X
+ X  X
+
+B
+ XXX
+ X  X
+ X  X
+ XXX
+ X  X
+ XXX
+
+C
+  XXXX
+ X
+ X
+ X
+ X
+  XXXX
+
+D
+ XXX
+ X  X
+ X  X
+ X  X
+ X  X
+ XXX
+
+E
+ XXXX
+ X
+ X
+ XXX
+ X
+ XXXX
+
+F
+ XXXX
+ X
+ X
+ XXX
+ X
+ X
+
+G
+  XXX
+ X
+ X
+ X XX
+ X  X
+  XXX
+
+H
+ X  X
+ X  X
+ X  X
+ XXXX
+ X  X
+ X  X
+
+I
+  X
+  X
+  X
+  X
+  X
+  X
+
+J
+ XXXX
+    X
+    X
+    X
+ X  X
+  XX
+
+K
+ X  X
+ X  X
+ X X
+ XX
+ X X
+ X  X
+
+L
+ X
+ X
+ X 
+ X
+ X  
+ XXXX
+
+M
+ X  X
+ XXXX
+ XXXX
+ X  X
+ X  X
+ X  X
+
+N
+ X  X
+ X  X
+ XX X
+ XXXX
+ X XX
+ X  X
+
+O
+  XX
+ X  X
+ X  X
+ X  X
+ X  X
+  XX
+
+P
+ XXX 
+ X  X
+ X  X
+ XXX
+ X
+ X
+
+Q
+  XX
+ X  X
+ X  X
+ XX X
+ X XX
+  XXX
+
+R
+ XXX 
+ X  X
+ X  X
+ XXX
+ X  X
+ X  X
+
+S
+  XXX
+ X
+ X
+  XX
+    X
+ XXX
+
+T
+ XXX
+  X
+  X
+  X
+  X
+  X
+
+U
+ X  X
+ X  X
+ X  X
+ X  X
+ X  X
+  XXX
+
+V
+ X  X
+ X  X
+ X  X
+ X  X
+  XX
+  XX
+
+W
+ X  X
+ X  X
+ X  X
+ XXXX
+ XXXX
+ X  X
+
+X
+ X  X
+ X  X
+  XX
+  XX
+ X  X
+ X  X
+
+Y
+ X  X
+ X  X
+ X  X
+  XX
+   X
+   X
+
+Z
+ XXXX
+    X
+   X
+  X
+ X
+ XXXX
+
++
+  XX
+ XXXX
+XX  XX
+XX  XX
+ XXXX
+  XX
+
+.
+ XXXX 
+XXXXXX
+XXXXXX
+XXXXXX
+XXXXXX
+ XXXX 
+
+>
+   X
+   XX
+XXXXXX
+XXXXXX
+   XX
+   X
+
+<
+  X  
+ XX 
+XXXXXX
+XXXXXX
+ XX 
+  X  
+
+^
+  XX  
+ XXXX
+XXXXXX
+  XX  
+  XX  
+  XX
+
+v
+  XX
+  XX 
+  XX  
+XXXXXX
+ XXXX
+  XX
+
